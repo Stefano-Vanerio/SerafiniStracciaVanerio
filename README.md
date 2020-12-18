@@ -1,6 +1,7 @@
 # CLup - Software Engineering II Project - a.y. 2020-2021
-Structure of this Repository
-This repository contains all the files that we created to realize the final documents for the project. The folders that you can find are:
+# Structure of this Repository
+This repository contains all the files that we created to realize the final documents for the project, including all the pictures classified by section. 
+The folders that you can find are:
 
 •	RASD: contains all the files used to realize the final pdf (rasd)
 
@@ -8,9 +9,17 @@ This repository contains all the files that we created to realize the final docu
 
 •	Presentation: contains all the files used to realize the final pdf (presentation)
 
+# Online collaborative work platform
+In the creation of the files related to the project we have used an online collaborative work platform.
+In it is possible to see the complete history of all the modifications of the files.
+
+•	At this link is present the file used for the creation of the RASD file: https://docs.google.com/document/d/1EinVh5w7yB-jk7-YYJO_MIyqoS4mnwvOs2p9OUenkZg/edit?usp=sharing
+
+•	At this link is present the file used for the creation of the DD file: 
+
 # Project goal and approach
 
-The objective of this project is to apply in practice what we learned during lectures with the purpose of becoming familiar with software engineering practices and able to address new software engineering issues in a rigorous way. The project issues two assignments:
+The objective of this project is to apply in practice what you learn during lectures with the purpose of becoming familiar with software engineering practices and able to address new software engineering issues in a rigorous way. The project includes two assignments:
 
 1.	The preparation of a Requirement Analysis and Specification Document (RASD) for the problem provided
 

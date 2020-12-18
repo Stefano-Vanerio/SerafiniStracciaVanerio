@@ -3,7 +3,7 @@
 This repository contains all the files that we created to realize the final documents for the project, including all the pictures classified by section. 
 The folders that you can find are:
 
-•	RASD: contains all the files used to realize the final pdf (rasd)
+•	Rasd: contains all the files used to realize the final pdf (rasd)
 
 •	DD: contains all the files used to realize the final pdf (dd)
 

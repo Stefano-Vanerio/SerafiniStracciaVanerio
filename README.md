@@ -42,7 +42,7 @@ In addition, the application suggests alternatives and options feature: the appl
 The documents realized are based on the basic service and the two-advantage functionality.
 
 # Contributors:
-Agnese Straccia
-Cristiano Serafini
+Agnese Straccia, 
+Cristiano Serafini, 
 Stefano Vanerio
 

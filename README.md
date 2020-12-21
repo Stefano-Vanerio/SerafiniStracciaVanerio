@@ -1,5 +1,5 @@
 # CLup - Software Engineering II Project - a.y. 2020-2021
-# Structure of this Repository
+# Repository
 This repository contains all the files that we created to realize the final documents for the project, including all the pictures classified by section. 
 The folders that you can find are:
 
@@ -9,13 +9,15 @@ The folders that you can find are:
 
 •	Presentation: contains all the files used to realize the final pdf (presentation)
 
+•	DeliveryFolder: contains the final versions of the documents
+
 # Online collaborative work platform
 In the creation of the files related to the project we have used an online collaborative work platform.
 In it is possible to see the complete history of all the modifications of the files.
 
 •	At this link is present the file used for the creation of the RASD file: https://docs.google.com/document/d/1EinVh5w7yB-jk7-YYJO_MIyqoS4mnwvOs2p9OUenkZg/edit?usp=sharing
 
-•	At this link is present the file used for the creation of the DD file: 
+•	At this link is present the file used for the creation of the DD file: https://docs.google.com/document/d/1hjAKQO--b4NgonxfEOeGYQxDc5a6BY9Y2g3mT3JWpe4/edit?usp=sharing
 
 # Project goal and approach
 

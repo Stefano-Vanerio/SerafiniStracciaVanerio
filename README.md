@@ -25,7 +25,7 @@ The objective of this project is to apply in practice what you learn during lect
 
 1.	The preparation of a Requirement Analysis and Specification Document (RASD) for the problem provided
 
-2.	The definition of the Design Document (DD) for the system considered in point 1 
+2.	The definition of the Design Document (DD) for the system 
 
 
 # The problem: CLup
